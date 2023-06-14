@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C#, Python, Java, CSS, HTML, JavaScript, MySQL, JIRA, Postman y GitHub con el manejo de Bootstrap, SpringBoot con la estructura MVC**
 
-- 👨‍💻 All of my projects are available at [portafolio@github.com](portafolio@github.com)
+- 👨‍💻 All of my projects are available at [https://carolmorenosegura.github.io/Portafolio/](https://carolmorenosegura.github.io/Portafolio/)
 
 - 📫 How to reach me **cazomose99@hotmail.com**
 
